@@ -1,0 +1,12 @@
+.card {
+    margin: 10px;
+    width: 275px;
+    height: 100px;
+    vertical-align: middle;
+    display: inline-block;
+    position: relative;
+}
+
+.card span{
+    display: block;
+}
