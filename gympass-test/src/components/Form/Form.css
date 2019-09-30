@@ -1,0 +1,19 @@
+.MuiFormControl-marginNormal{
+    margin: 0 10px!important;
+}
+
+.PrivateNotchedOutline-root-59{
+    border-color: #ff5722!important;
+}
+
+.MuiOutlinedInput-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #ff5722!important;
+}
+
+.MuiOutlinedInput-root{
+    border-color: #ff5722!important;
+}
+
+.MuiFormLabel-root, .MuiFormLabel-root.Mui-focused{
+    color: #ff5722!important;
+}
