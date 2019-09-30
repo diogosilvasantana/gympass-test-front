@@ -1,4 +1,5 @@
 # Teste Front-End - GYMPASS
+### Desenvolvedor: Diogo da Silva Santana
 
 ## Sobre a Aplicação - Diretórios do GitHub
 A Aplicação lista todos os diretórios de um usuário do GitHub e direciona para a página de commits no GitHub ao clicar no item.
